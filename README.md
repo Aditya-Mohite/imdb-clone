@@ -1,6 +1,6 @@
 # IMDb Clone
 
-## Overview
+## Overview:
 The IMDb Clone is a frontend application built using ReactJS and JavaScript, designed to replicate the basic functionalities of the IMDb website. This project showcases the use of modern web development techniques and libraries, focusing on creating a responsive and user-friendly interface. The project does not include a backend or database, making it a purely frontend-driven application.
 
 ## Screenshots
